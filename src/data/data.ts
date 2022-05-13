@@ -1,7 +1,11 @@
 export const titleOptions = [
-  { label: 'English', value: 'english' },
-  { label: 'French', value: 'french' },
-  { label: 'Arabic', value: 'arabic' },
-  { label: 'Spanish', value: 'spanish' },
-  { label: 'Portuguese', value: 'portuguese' },
+  { label: 'Developer', value: 'developer' },
+  { label: 'Engineer', value: 'engineer' },
+  { label: 'Analyst', value: 'analyst' },
+  { label: 'Doctor', value: 'doctor' },
+  { label: 'Author', value: 'author' },
+  { label: 'Coach', value: 'coach' },
+  { label: 'Brand', value: 'brand' },
+  { label: 'Designer', value: 'Designer' },
+  { label: 'Influencer', value: 'influencer' },
 ];
