@@ -1,11 +1,6 @@
 # Star Trek API little project, [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ujadninth)](https://twitter.com/ujadninth)
 
-<p align="center">
-  <a href="https://startrek-one.vercel.app"><img src="public/assets/images/startrek.png?raw=true" alt="Next js star-trek app example"></a>
-</p>
-
-🚀 Star Trek Api Project and built with  Next.js, Tailwind CSS and TypeScript ⚡️.
-s
+🚀 Tag Select Input Prototype and built with  Next.js, Tailwind CSS and TypeScript ⚡️.
 
 - Node.js 14+ and npm
 
@@ -14,8 +9,8 @@ s
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/emekauja/startrek.git
-cd startrek
+git clone --depth=1 https://github.com/emekauja/tag-input-prototype.git
+cd tag-input-prototype
 npm install
 ```
 
